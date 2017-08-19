@@ -1,0 +1,39 @@
+c:\users\alberto\documents\visual studio 2013\Projects\AdminGanado\AdminGanado\bin\Debug\AdminGanado.exe.config
+C:\Users\Alberto\documents\visual studio 2013\Projects\AdminGanado\AdminGanado\bin\Debug\AdminGanado.exe
+C:\Users\Alberto\documents\visual studio 2013\Projects\AdminGanado\AdminGanado\bin\Debug\AdminGanado.pdb
+C:\Users\Alberto\documents\visual studio 2013\Projects\AdminGanado\AdminGanado\bin\Debug\MongoDB.Bson.dll
+C:\Users\Alberto\documents\visual studio 2013\Projects\AdminGanado\AdminGanado\bin\Debug\MongoDB.Driver.dll
+C:\Users\Alberto\documents\visual studio 2013\Projects\AdminGanado\AdminGanado\obj\Debug\AdminGanado.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\documents\visual studio 2013\Projects\AdminGanado\AdminGanado\obj\Debug\AdminGanado.Properties.Resources.resources
+C:\Users\Alberto\documents\visual studio 2013\Projects\AdminGanado\AdminGanado\obj\Debug\AdminGanado.csproj.GenerateResource.Cache
+C:\Users\Alberto\documents\visual studio 2013\Projects\AdminGanado\AdminGanado\obj\Debug\AdminGanado.exe
+C:\Users\Alberto\documents\visual studio 2013\Projects\AdminGanado\AdminGanado\obj\Debug\AdminGanado.pdb
+C:\Users\Alberto\documents\visual studio 2013\Projects\AdminGanado\AdminGanado\obj\Debug\AdminGanado.frmPruebas.resources
+C:\Users\Yaneri\Desktop\ProyectoAdminVacas_29MAYO\AdminGanado\AdminGanado\bin\Debug\AdminGanado.exe.config
+C:\Users\Yaneri\Desktop\ProyectoAdminVacas_29MAYO\AdminGanado\AdminGanado\obj\Debug\AdminGanado.exe
+C:\Users\Yaneri\Desktop\ProyectoAdminVacas_29MAYO\AdminGanado\AdminGanado\obj\Debug\AdminGanado.pdb
+C:\Users\Yaneri\Desktop\ProyectoAdminVacas_29MAYO\AdminGanado\AdminGanado\bin\Debug\AdminGanado.exe
+C:\Users\Yaneri\Desktop\ProyectoAdminVacas_29MAYO\AdminGanado\AdminGanado\bin\Debug\AdminGanado.pdb
+C:\Users\Yaneri\Desktop\ProyectoAdminVacas_29MAYO\AdminGanado\AdminGanado\obj\Debug\AdminGanado.csprojResolveAssemblyReference.cache
+C:\Users\Yaneri\Desktop\ProyectoAdminVacas_29MAYO\AdminGanado\AdminGanado\obj\Debug\AdminGanado.frmPruebas.resources
+C:\Users\Yaneri\Desktop\ProyectoAdminVacas_29MAYO\AdminGanado\AdminGanado\obj\Debug\AdminGanado.Properties.Resources.resources
+C:\Users\Yaneri\Desktop\ProyectoAdminVacas_29MAYO\AdminGanado\AdminGanado\obj\Debug\AdminGanado.csproj.GenerateResource.Cache
+C:\Users\Yaneri\Desktop\ProyectoAdminVacas_29MAYO\AdminGanado\AdminGanado\obj\Debug\AdminGanado.frmInicio.resources
+E:\AdminGanado\AdminGanado\bin\Debug\AdminGanado.exe.config
+E:\AdminGanado\AdminGanado\obj\Debug\AdminGanado.exe
+E:\AdminGanado\AdminGanado\obj\Debug\AdminGanado.pdb
+C:\Users\Alberto\Desktop\ProyectoAdminVacas_7 JUNIO\AdminGanado\AdminGanado\bin\Debug\AdminGanado.exe.config
+C:\Users\Alberto\Desktop\ProyectoAdminVacas_7 JUNIO\AdminGanado\AdminGanado\obj\Debug\AdminGanado.exe
+C:\Users\Alberto\Desktop\ProyectoAdminVacas_7 JUNIO\AdminGanado\AdminGanado\obj\Debug\AdminGanado.pdb
+C:\Users\Alberto\Desktop\ProyectoAdminVacas_7 JUNIO\AdminGanado\AdminGanado\bin\Debug\AdminGanado.exe
+C:\Users\Alberto\Desktop\ProyectoAdminVacas_7 JUNIO\AdminGanado\AdminGanado\bin\Debug\AdminGanado.pdb
+C:\Users\Alberto\Desktop\ProyectoAdminVacas_7 JUNIO\AdminGanado\AdminGanado\obj\Debug\AdminGanado.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\ProyectoAdminVacas_7 JUNIO\AdminGanado\AdminGanado\obj\Debug\AdminGanado.frmInicio.resources
+C:\Users\Alberto\Desktop\ProyectoAdminVacas_7 JUNIO\AdminGanado\AdminGanado\obj\Debug\AdminGanado.frmPruebas.resources
+C:\Users\Alberto\Desktop\ProyectoAdminVacas_7 JUNIO\AdminGanado\AdminGanado\obj\Debug\AdminGanado.Properties.Resources.resources
+C:\Users\Alberto\Desktop\ProyectoAdminVacas_7 JUNIO\AdminGanado\AdminGanado\obj\Debug\AdminGanado.csproj.GenerateResource.Cache
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\AdminGanado\AdminGanado\obj\Debug\AdminGanado.frmInicio.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\AdminGanado\AdminGanado\obj\Debug\AdminGanado.frmOpciones.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\AdminGanado\AdminGanado\obj\Debug\AdminGanado.frmGanadero.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\AdminGanado\AdminGanado\obj\Debug\AdminGanado.frmOrganizacion.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\AdminGanado\AdminGanado\obj\Debug\AdminGanado.frmRegistroGanado.resources

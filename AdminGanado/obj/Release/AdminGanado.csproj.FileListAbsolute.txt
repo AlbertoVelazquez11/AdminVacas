@@ -1,0 +1,30 @@
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\AdminGanado\AdminGanado\bin\Release\AdminGanado.exe.config
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\AdminGanado\AdminGanado\bin\Release\AdminGanado.exe
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\AdminGanado\AdminGanado\bin\Release\AdminGanado.pdb
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\AdminGanado\AdminGanado\obj\Release\AdminGanado.frmGanadero.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\AdminGanado\AdminGanado\obj\Release\AdminGanado.frmInicio.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\AdminGanado\AdminGanado\obj\Release\AdminGanado.frmOpciones.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\AdminGanado\AdminGanado\obj\Release\AdminGanado.frmOrganizacion.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\AdminGanado\AdminGanado\obj\Release\AdminGanado.frmPruebas.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\AdminGanado\AdminGanado\obj\Release\AdminGanado.Properties.Resources.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\AdminGanado\AdminGanado\obj\Release\AdminGanado.frmRegistroGanado.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\AdminGanado\AdminGanado\obj\Release\AdminGanado.csproj.GenerateResource.Cache
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\AdminGanado\AdminGanado\obj\Release\AdminGanado.exe
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\AdminGanado\AdminGanado\obj\Release\AdminGanado.pdb
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\AdminGanado\AdminGanado\obj\Release\AdminGanado.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\AdminGanado\AdminGanado\obj\Release\AdminGanado.frmConsultaGanado.resources
+C:\Users\LaKrAxX\Desktop\TODO GANADO\AdminGanado\AdminGanado\bin\Release\AdminGanado.exe.config
+C:\Users\LaKrAxX\Desktop\TODO GANADO\AdminGanado\AdminGanado\obj\Release\AdminGanado.exe
+C:\Users\LaKrAxX\Desktop\TODO GANADO\AdminGanado\AdminGanado\obj\Release\AdminGanado.pdb
+C:\Users\LaKrAxX\Desktop\TODO GANADO\AdminGanado\AdminGanado\bin\Release\AdminGanado.exe
+C:\Users\LaKrAxX\Desktop\TODO GANADO\AdminGanado\AdminGanado\bin\Release\AdminGanado.pdb
+C:\Users\LaKrAxX\Desktop\TODO GANADO\AdminGanado\AdminGanado\obj\Release\AdminGanado.csprojResolveAssemblyReference.cache
+C:\Users\LaKrAxX\Desktop\TODO GANADO\AdminGanado\AdminGanado\obj\Release\AdminGanado.frmConsultaGanado.resources
+C:\Users\LaKrAxX\Desktop\TODO GANADO\AdminGanado\AdminGanado\obj\Release\AdminGanado.frmGanadero.resources
+C:\Users\LaKrAxX\Desktop\TODO GANADO\AdminGanado\AdminGanado\obj\Release\AdminGanado.frmInicio.resources
+C:\Users\LaKrAxX\Desktop\TODO GANADO\AdminGanado\AdminGanado\obj\Release\AdminGanado.frmOpciones.resources
+C:\Users\LaKrAxX\Desktop\TODO GANADO\AdminGanado\AdminGanado\obj\Release\AdminGanado.frmOrganizacion.resources
+C:\Users\LaKrAxX\Desktop\TODO GANADO\AdminGanado\AdminGanado\obj\Release\AdminGanado.frmPruebas.resources
+C:\Users\LaKrAxX\Desktop\TODO GANADO\AdminGanado\AdminGanado\obj\Release\AdminGanado.Properties.Resources.resources
+C:\Users\LaKrAxX\Desktop\TODO GANADO\AdminGanado\AdminGanado\obj\Release\AdminGanado.frmRegistroGanado.resources
+C:\Users\LaKrAxX\Desktop\TODO GANADO\AdminGanado\AdminGanado\obj\Release\AdminGanado.csproj.GenerateResource.Cache

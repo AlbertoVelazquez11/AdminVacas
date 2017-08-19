@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{166182E9-4CE0-4F05-9A91-0AC8ABF41458}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AdminGanado</RootNamespace>
+    <AssemblyName>AdminGanado</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MongoDB.Bson">
+      <HintPath>..\..\..\..\..\Desktop\Proyecto\Proyecto 1.0\dll\MongoDB.Bson.dll</HintPath>
+    </Reference>
+    <Reference Include="MongoDB.Driver">
+      <HintPath>..\..\..\..\..\Desktop\Proyecto\Proyecto 1.0\dll\MongoDB.Driver.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\Animal\Animal.cs" />
+    <Compile Include="Clases\Animal\CrudAnimal.cs" />
+    <Compile Include="Clases\Conexion.cs" />
+    <Compile Include="Clases\Ganadero\CrudGanadero.cs" />
+    <Compile Include="Clases\Ganadero\Ganadero.cs" />
+    <Compile Include="Clases\Ganado\CrudGanado.cs" />
+    <Compile Include="Clases\Ganado\Ganado.cs" />
+    <Compile Include="Clases\Organizacion\CrudOrganizacion.cs" />
+    <Compile Include="Clases\Organizacion\Organizacion.cs" />
+    <Compile Include="Clases\Usuario\CrudUsuario.cs" />
+    <Compile Include="Clases\Usuario\Usuario.cs" />
+    <Compile Include="ConsultaGanado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaGanado.Designer.cs">
+      <DependentUpon>ConsultaGanado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ganadero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ganadero.Designer.cs">
+      <DependentUpon>Ganadero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Opciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Opciones.Designer.cs">
+      <DependentUpon>Opciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Organizacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Organizacion.Designer.cs">
+      <DependentUpon>Organizacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Prueba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prueba.Designer.cs">
+      <DependentUpon>Prueba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistroGanado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroGanado.Designer.cs">
+      <DependentUpon>RegistroGanado.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ConsultaGanado.resx">
+      <DependentUpon>ConsultaGanado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ganadero.resx">
+      <DependentUpon>Ganadero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Opciones.resx">
+      <DependentUpon>Opciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Organizacion.resx">
+      <DependentUpon>Organizacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prueba.resx">
+      <DependentUpon>Prueba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegistroGanado.resx">
+      <DependentUpon>RegistroGanado.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Recursos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vaca1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscarvaca1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\masvaca1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\er.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paisaje.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fabr.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vaquer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\caravaca.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondovaca.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondovaca2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\31.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
