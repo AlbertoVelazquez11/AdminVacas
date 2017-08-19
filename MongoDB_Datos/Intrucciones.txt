@@ -1,0 +1,2 @@
+-La carpeta data debe estar en la raiz (C:)
+-La carpeta MongoDB debe estar en la raiz eh iniciar el servicio desde consola
